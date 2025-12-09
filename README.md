@@ -18,8 +18,8 @@ La aplicación se orienta a:
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-* **Unity 2022+** con AR Foundation
-* **ARCore / ARKit**
+* **Unity 2022+**
+* **Vuforia Engine**
 * **C#** para scripts
 * **Blender** para modelado 3D
 * **LaTeX** para la redacción académica
