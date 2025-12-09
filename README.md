@@ -41,7 +41,7 @@ La aplicación se orienta a:
 
 ## 🔧 **Características Principales**
 
-* Detección de superficies mediante AR Foundation
+* Detección de imagenes mediante Vuforia Engine
 * Visualización de modelos 3D a escala
 * Interfaz de usuario optimizada para dispositivos móviles
 * Paneles informativos interactivos
@@ -84,7 +84,7 @@ Este repositorio incluye los siguientes documentos:
 ## 👨‍🎓 **Autor**
 
 **Nombre:** Oscar García
-**Institución:** Facultad de Tecnologías Interactivas
+**Institución:** Universidad de las Ciencias Informáticas
 
 ---
 
