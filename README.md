@@ -6,7 +6,7 @@ Este repositorio contiene el código, recursos y documentación asociados a la t
 
 ## 🚀 **Descripción del Proyecto**
 
-El objetivo principal del proyecto es desarrollar una aplicación móvil con **Unity** y **AR Foundation** que permita a los usuarios visualizar modelos 3D de embarcaciones históricas, acceder a información contextual y explorar contenido educativo mediante experiencias inmersivas.
+El objetivo principal del proyecto es desarrollar una aplicación móvil con **Unity** y **Vuforia Engine** que permita a los usuarios visualizar modelos 3D de embarcaciones históricas, acceder a información contextual y explorar contenido educativo mediante experiencias inmersivas.
 
 La aplicación se orienta a:
 
