@@ -53,7 +53,11 @@ La aplicación se orienta a:
 ## 📱 **Capturas y Demostración**
 
 
-![PresentacionAPK](https://github.com/user-attachments/assets/ca56b5e1-c087-4f9a-b23f-112fe194bf14)
+
+https://github.com/user-attachments/assets/7c1e3e16-b6cd-4e0d-96b9-1e0ae5a8d50c
+
+
+
 
 ---
 
